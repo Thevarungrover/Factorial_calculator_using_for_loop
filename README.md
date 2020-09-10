@@ -1,0 +1,2 @@
+# Factorial_calculator_using_for_loop
+It calculates factorial
